@@ -15,5 +15,7 @@ public class AppTest
 	{
 		System.out.println("Welcome REST Assured");
 		assertTrue(true);
+		
+		
 	}
 }
